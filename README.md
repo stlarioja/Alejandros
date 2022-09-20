@@ -1,2 +1,2 @@
 # Alejandros
-Prueba de parctica uso de comenados
+Prueba de practica uso de comenados
